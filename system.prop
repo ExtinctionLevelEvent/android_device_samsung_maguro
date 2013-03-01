@@ -4,6 +4,8 @@
 ## cannot take spaces
 rild.libargs=-d /dev/ttys0
 
+ro.ele.version=ELEMaguro
+
 # Fields For Custom RIL
 rild.libpath=/vendor/lib/libsec-ril.so
 telephony.lteOnCdmaDevice=0
